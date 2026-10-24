@@ -1,0 +1,112 @@
+{
+  "campaigns": [
+    {
+      "id": "c_101",
+      "name": "Summer Welcome Bonus",
+      "status": "active",
+      "rewardType": "points",
+      "budget": 50000,
+      "spent": 12400,
+      "createdAt": "2026-10-01T10:00:00Z"
+    },
+    {
+      "id": "c_102",
+      "name": "Inactive User Reactivation",
+      "status": "draft",
+      "rewardType": "discount",
+      "budget": 10000,
+      "spent": 0,
+      "createdAt": "2026-10-15T08:30:00Z"
+    },
+    {
+      "id": "c_103",
+      "name": "VIP Tier Upgrade",
+      "status": "paused",
+      "rewardType": "multiplier",
+      "budget": 25000,
+      "spent": 25000,
+      "createdAt": "2026-09-20T14:15:00Z"
+    },
+    {
+      "id": "c_104",
+      "name": "Birthday Rewards",
+      "status": "active",
+      "rewardType": "points",
+      "budget": 15000,
+      "spent": 7500,
+      "createdAt": "2026-10-18T09:00:00Z"
+    },
+    {
+      "id": "c_105",
+      "name": "Weekend Double Points",
+      "status": "paused",
+      "rewardType": "multiplier",
+      "budget": 8000,
+      "spent": 7200,
+      "createdAt": "2026-10-12T12:00:00Z"
+    },
+    {
+      "id": "c_106",
+      "name": "New Member Discount",
+      "status": "draft",
+      "rewardType": "discount",
+      "budget": 5000,
+      "spent": 0,
+      "createdAt": "2026-10-20T08:00:00Z"
+    },
+    {
+      "id": "c_107",
+      "name": "Community Thank You",
+      "status": "active",
+      "rewardType": "points",
+      "budget": 0,
+      "spent": 0,
+      "createdAt": "2026-10-05T10:00:00Z"
+    },
+    {
+      "id": "c_108",
+      "name": "Autumn Return Discount",
+      "status": "paused",
+      "rewardType": "discount",
+      "budget": 10000,
+      "spent": 11250,
+      "createdAt": "2026-09-28T11:00:00Z"
+    },
+    {
+      "id": "c_109",
+      "name": "Holiday Loyalty Multiplier",
+      "status": "draft",
+      "rewardType": "multiplier",
+      "budget": 125000,
+      "spent": 0,
+      "createdAt": "2026-10-22T15:00:00Z"
+    },
+    {
+      "id": "c_110",
+      "name": "Neighborhood Store Welcome",
+      "status": "active",
+      "rewardType": "discount",
+      "budget": 100,
+      "spent": 1,
+      "createdAt": "2026-10-10T06:00:00Z"
+    },
+    {
+      "id": "c_111",
+      "name": "Exclusive Anniversary Rewards for Long-Standing Loyalty Club Members",
+      "status": "paused",
+      "rewardType": "points",
+      "budget": 40000,
+      "spent": 12000,
+      "createdAt": "2026-09-15T14:00:00Z"
+    },
+    {
+      "id": "c_112",
+      "name": "Partner Launch Multiplier",
+      "status": "draft",
+      "rewardType": "multiplier",
+      "budget": 20000,
+      "spent": 0,
+      "createdAt": "2026-10-22T15:00:00Z"
+    }
+  ]
+}
